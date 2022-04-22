@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510997116891",
+    "project_id": "parking-c36dd",
+    "storage_bucket": "parking-c36dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510997116891:android:8686e165c9db27d5ec19fe",
+        "android_client_info": {
+          "package_name": "com.hack36.ParKing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510997116891-igveia5c2gqdfbplvvjqpj6po1l7dbcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hack36.ParKing",
+            "certificate_hash": "a0fca57e02b64473c407068b9f6c621ae4ac0090"
+          }
+        },
+        {
+          "client_id": "510997116891-uv4m70m0uco90mu4h6ium6ec230aochp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zYfkgZOgtCCvRjDRFdTzZMFERJPFs6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510997116891-uv4m70m0uco90mu4h6ium6ec230aochp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
